@@ -1,4 +1,4 @@
-## Hi there 👋
+![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://tenor.com/view/rgb-roach-spinning-dancing-moves-gif-17647122))
 
 <!--
 **fghtd/fghtd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
