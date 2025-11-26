@@ -1,4 +1,4 @@
-![me](https://media.tenor.com/sswzdSsMAZwAAAAi/rgb-roach.gif)
+![](./bug.gif)
 
 <!--
 **fghtd/fghtd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
